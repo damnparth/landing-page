@@ -1,0 +1,18 @@
+.nav {
+    display:flex;
+    justify-content: space-between;
+   
+
+}
+#logo{
+    margin-right: 500px;
+}
+.header{
+    margin-left: 175px;
+    margin-right: 200px;
+
+    
+}
+.head-foot{
+    margin-top: 100px;
+}
