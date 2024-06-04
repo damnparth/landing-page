@@ -10,9 +10,20 @@
 .header{
     margin-left: 175px;
     margin-right: 200px;
+    
+   
 
     
 }
 .head-foot{
     margin-top: 100px;
+    display: flex;
+}
+img{
+    width: 500px;
+    margin-left: 200px;
+}
+#h12{
+    margin-left: 300px;
+    margin-top: 70px;
 }
