@@ -58,7 +58,7 @@ img{
 .foot-info{
     height: 175px;
     border-radius: 20px;
-    background-color: blue;
+    background-color:#3882f6 ;
     margin-bottom: 100px;
     align-content: center;
     padding-left:200px;
@@ -71,21 +71,20 @@ img{
 }
 .footer{
     height: 100px;
-    background-color: darkblue;
+    background-color: #1f2937;
+    color:white;
+    padding-left: 600px;
+    padding-top: 30px;
 }
 #foot{
     width: 100px;
     height: 50px;
     border-radius: 20px;
     border-color: white;
-    background-color: blue;
+    background-color:#3882f6 ;
     color: white;
     margin-left: 500px;
     
 }
-.footer{
-    color:white;
-    padding-left: 600px;
-    padding-top: 30px;
-}
+
 
